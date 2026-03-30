@@ -1,8 +1,8 @@
 ## Hi, I'm Suhani Boxi 
--B.Tech Student (CSE-AI & ML)  
--1st Year  
--I am interested in learning programming,exploring new AI technologies and building real projects
--I enjoy turning ideas into projects and constantly pushing myself to grow both technically and creatively.
+- B.Tech Student (CSE-AI & ML)  
+- 1st Year  
+- I am interested in learning programming,exploring new AI technologies and building real projects
+- I enjoy turning ideas into projects and constantly pushing myself to grow both technically and creatively.
 ##  Skills & Interests  
 - Programming: Python .Java 
 - Core Interests: AI/ML, Innovation, Problem Solving  
