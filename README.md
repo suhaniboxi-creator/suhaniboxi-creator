@@ -2,10 +2,7 @@
 -B.Tech Student (CSE-AI & ML)  
 -1st Year  
 -I am interested in learning programming,exploring new AI technologies and building real projects
-## About Me  
-I’m a tech enthusiast passionate about building, learning, and experimenting with new technologies.  
-Currently exploring the world of **Artificial Intelligence, Machine Learning, and development**, while strengthening my core programming and problem-solving skills.  
-I enjoy turning ideas into projects and constantly pushing myself to grow both technically and creatively.
+-I enjoy turning ideas into projects and constantly pushing myself to grow both technically and creatively.
 ##  Skills & Interests  
 - Programming: Python .Java 
 - Core Interests: AI/ML, Innovation, Problem Solving  
